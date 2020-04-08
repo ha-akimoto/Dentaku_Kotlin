@@ -1,14 +1,14 @@
 package com.example.dentaku_kotlin.common
 
-class Constants {
-    companion object {
-        val PLUS: String = "+"
+object Constants {
 
-        val MINUS: String = "-"
+    val PLUS: String = "+"
 
-        val TIMES: String = "×"
+    val MINUS: String = "-"
 
-        val DIVIDED: String = "÷"
-    }
+    val TIMES: String = "×"
+
+    val DIVIDED: String = "÷"
+
 
 }
